@@ -1,0 +1,53 @@
+.logo{
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    background-image: url("https://ov12-engine.flamingtext.com/netfu/tmp28011/coollogo_com-187942177.png");
+}
+.tagline{
+    text-align: center;
+    font-family: cursive;
+    padding: 10px;
+    columns: rgb(248, 245, 243);
+    font-size: 32px;
+}
+.box{
+    padding: 5px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: rgb(246, 238, 238);
+    margin: 5px;
+    font-family: caveat;
+}
+.my-image{
+    height: 200px;
+    width: 220px;
+}
+.about-me{
+    padding: 8px;
+}
+.heading{
+    color: rgb(255, 255, 56);
+    font-size: 28px;
+}
+.para{
+    color: rgb(180, 225, 243);
+    font-size: 18px;
+}
+.page{
+    background-color: rgb(20, 20, 17);
+    padding: 20px;
+    margin: 12px;
+}
+.sub-heading{
+    color: rgb(255, 251, 248);
+    font-size: 22px;
+}
+.sub-para{
+    color: rgb(183, 107, 254);
+    font-size: 18px;
+}
+.sub-sub-para{
+    color: darkgray;
+    font-size: 12px;
+}
